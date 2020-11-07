@@ -25,7 +25,7 @@ SECRET_KEY = '3=!sso547sqm_=_(%5h40l#@n569q^5cn-^1um#np4y!m$y2q@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://cryptic-brushlands-43237.herokuapp.com/',]
+ALLOWED_HOSTS = ['*',]
 
 
 # Application definition
